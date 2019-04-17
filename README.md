@@ -1,5 +1,5 @@
 # learn_pytorch_from_tutorials
-Some notes and codes form tutorials
+Some notes and codes form the official tutorials
 
 ## version
 Python 3.5
