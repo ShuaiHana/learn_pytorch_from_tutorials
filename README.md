@@ -8,4 +8,5 @@ Pytorch 0.4.1
 
 ## reference
 https://pytorch.org/tutorials/index.html
+
 https://pytorch.org/docs/stable/nn.html#loss-functions
